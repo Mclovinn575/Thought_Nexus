@@ -32,4 +32,5 @@ rJson = json.loads(resultContent)
 
 # Display Pokemon information
 display_pokemon_info(rJson)
+# look into looping this to ask if user would like to lookup multiple at once.
 
