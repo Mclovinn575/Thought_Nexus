@@ -32,4 +32,4 @@ rJson = json.loads(resultContent)
 
 # Display Pokemon information
 display_pokemon_info(rJson)
-
+# Look into adding a loop and another input in order for user to look up pokemon back to back
